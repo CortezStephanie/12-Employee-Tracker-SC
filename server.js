@@ -4,13 +4,11 @@ const express = require('express');
 const mysql = require('mysql2');
 
 const {Table} = require('console-table-printer');
-// const chalk = require('chalk');
-// const logo = require('asciiart-logo');
+
 const app = express();
 const PORT = process.env.PORT || 3001;
 const util = require('util');
-// const { start } = require("repl");
-//const { table } = require("console");
+
 
 // Express middleware
 app.use(express.urlencoded({
