@@ -21,7 +21,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     // MySQL username,
     user: 'root',
-    // TODO: Add MySQL password here
+   
     password: 'root123',
     database: 'Employee_Tracker_Dragon_Fly_Inn_db'
   },
