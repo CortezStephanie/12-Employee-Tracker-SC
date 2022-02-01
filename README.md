@@ -3,6 +3,8 @@
 
 #  Employee Tracker
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+To watch a demonstration on how to use the app and its functionality [click here](https://watch.screencastify.com/v/60oBiUYyUuayZqxkTjGS)
 ##  With this application you are able to organize employees and their roles with a series of questions. 
 ### Table of contents
 - [Installation](#installation)
@@ -43,8 +45,6 @@ You can also add departments!
 This repository is covered by the MIT License  <br> 
 https://opensource.org/licenses/MIT
 
-####
-To watch a demonstration on how to use the app and its functionality is [click here](https://watch.screencastify.com/v/60oBiUYyUuayZqxkTjGS)
 #### Contributors
 Damien Luzzo, Ethan Cho
 #### Test Instructions
