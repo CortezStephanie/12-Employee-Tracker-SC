@@ -1,9 +1,8 @@
 const inquirer = require("inquirer");
 const express = require('express');
-// Import and require mysql2
+
 const mysql = require('mysql2');
-// hides password
-// const hideSecrets = require ('hide-secrets');
+
 const {Table} = require('console-table-printer');
 // const chalk = require('chalk');
 // const logo = require('asciiart-logo');
