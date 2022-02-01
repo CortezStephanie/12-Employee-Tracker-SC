@@ -3,7 +3,7 @@
 
 #  Employee Tracker
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-##  With this application you are able to organize employees and their roles with a series of questions. The options presented to you will be: 
+##  With this application you are able to organize employees and their roles with a series of questions. 
 ### Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
